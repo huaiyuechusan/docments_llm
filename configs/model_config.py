@@ -48,7 +48,7 @@ ONLINE_LLM_MODEL = {
 
     # 智谱AI API,具体注册及api key获取请前往 http://open.bigmodel.cn
     "zhipu-api": {
-        "api_key": "ae9e179062f69306c92e70b9ec318203.MW1Hw4mPo28EgnBM",
+        "api_key": "",
         "version": "glm-4-flash",
         "provider": "ChatGLMWorker",
     },
