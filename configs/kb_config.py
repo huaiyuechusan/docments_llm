@@ -77,10 +77,10 @@ DB_ROOT_PATH = os.path.join(KB_ROOT_PATH, "info.db")
 SQLALCHEMY_DATABASE_URI = f"sqlite:///{DB_ROOT_PATH}"
 
 # 配置MySQL数据库连接参数
-# db_user = "root"
-# db_password = "niit1234"
-# db_host = "127.0.0.1"
-# db_name = "shopping_test"
+# db_user = ""
+# db_password = ""
+# db_host = ""
+# db_name = ""
 # SQLALCHEMY_DATABASE_URI = f"mysql+pymysql://{db_user}:{db_password}@{db_host}/{db_name}"
 
 # 可选向量库类型及对应配置
