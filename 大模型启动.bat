@@ -1,0 +1,1 @@
+cmd /k "cd /d G:\Anaconda3\Scripts && activate.bat && cd /d F:\BaiduSyncdisk\desktop\llm_source_project\docments_llm && conda activate python3.11 && python startup.py --all-webui

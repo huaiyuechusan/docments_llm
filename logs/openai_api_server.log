@@ -1,0 +1,10 @@
+2025-02-02 21:26:13 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m23660[0m]
+2025-02-02 21:26:15 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2025-02-02 21:26:15 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2025-02-02 21:26:15 | ERROR | stderr | [31mERROR[0m:    [Errno 10048] error while attempting to bind on address ('127.0.0.1', 20000): 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2025-02-02 21:26:15 | ERROR | stderr | [32mINFO[0m:     Waiting for application shutdown.
+2025-02-02 21:26:15 | ERROR | stderr | [32mINFO[0m:     Application shutdown complete.
+2025-02-02 21:31:11 | ERROR | stderr | [32mINFO[0m:     Started server process [[36m65516[0m]
+2025-02-02 21:31:11 | ERROR | stderr | [32mINFO[0m:     Waiting for application startup.
+2025-02-02 21:31:11 | ERROR | stderr | [32mINFO[0m:     Application startup complete.
+2025-02-02 21:31:11 | ERROR | stderr | [32mINFO[0m:     Uvicorn running on [1mhttp://127.0.0.1:20000[0m (Press CTRL+C to quit)
